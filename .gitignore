@@ -1,5 +1,6 @@
 *.class
 .idea/
+log4j-site.iml
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/

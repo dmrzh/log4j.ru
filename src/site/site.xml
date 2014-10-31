@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/DECORATION/1.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/DECORATION/1.0.0 http://maven.apache.org/xsd/decoration-1.0.0.xsd">
+    <bannerLeft>
+        <name>apache-maven</name>
+        <src>images/apache-maven-project-2.png</src>
+        <href>http://www.apache-maven.ru/</href>
+    </bannerLeft>
+    <bannerRight>
+        <src>images/logo.jpg</src>
+    </bannerRight>
+
+
+
+  <body>
+
+      <links>
+          <item name="maven.apache.org" href="http://maven.apache.org/"/>
+          <item name="log4j.ru" href="http://www.log4j.ru/"/>
+          <item name="Автор: Ржевский Дмитрий" href="http://www.rzhevskiy.info/"/>
+      </links>
+    <menu name="Статьи">
+      <item name="Начало работы с log4j" href="articles/HelloWorld.html"/>
+      <item name="Принцип работы, UML cхема. " href="UmlExample.html"/>
+      <item name="Конфигурационные файлы" href="ConfiguationFiles.html"/>
+      <item name="Стандартные аппендеры" href="StandardAppenders.html"/>
+      <item name="Написать аппендер - легко!" href="NewAppender.html"/>
+      <item name="Нестандартные Аппендеры(Appender)" href="NonStandardAppenders.html"/>
+      <item name="Форматеры (Layout)" href="Layouts.html"/>
+      <item name="SLF4J и CommonsLoggingPage" href="Slf4jAndCommonsLoggingPage.html"/>
+      <item name="Hibernate " href="Hibernate.html"/>
+
+
+      <item name="Goals" href="plugin-info.html"/>
+      <item name="Usage" href="usage.html"/>
+      <item name="FAQ" href="faq.html"/>
+    </menu>
+    <menu name="Ссылки">
+      <item name="Sample Changes Report" href="changes-report.html"/>
+      <item name="Live JIRA Report" href="jira-report.html"/>
+    </menu>
+
+    <menu name="Examples">
+      <item name="Alternate Location for the changes.xml File" href="examples/alternate-changes-xml-location.html"/>
+      <item name="SMTP Authentication" href="examples/smtp-authentication.html"/>
+    </menu>
+  </body>
+</project>
